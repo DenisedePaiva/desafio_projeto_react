@@ -1,0 +1,27 @@
+body{
+    background-color:#a87171 ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(42, 42, 56);
+    font-size: 18px;
+}
+
+label{
+    padding: 15px 0
+}
+
+input{
+    padding: 10px;
+    border-radius: 5px;
+    border: 10px transparent
+}
+
+button{
+    padding: 10px;
+    margin: 15px 0 15px;
+    border-radius: 5px;
+    color: rgb(28, 28, 46);
+    border: 10px transparent 
+}
